@@ -64,7 +64,7 @@ shop-management-system
    Create a `.env` file in the root directory with the following content:
 
    ```bash
-   MONGO_URI=mongodb+srv://Satyaveer1994:Satyaveer123@cluster0.pn1nk.mongodb.net/shop-management-system-DB
+   MONGO_URI=// add you mongdb url
    PORT=5000
    ```
 
